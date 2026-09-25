@@ -15,20 +15,17 @@ Un tema sereno, inspirado en el jade, para [Firefox](https://www.mozilla.org/fir
 
 ## Sabores
 
-| Sabor | Colores | Para |
-| --- | --- | --- |
-| **Forest** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/forest.svg" alt="Muestras de Forest" width="220"> | Oscuro y profundo, para la noche |
-| **Jade** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/jade.svg" alt="Muestras de Jade" width="220"> | Oscuro con más verde, para jornadas largas |
-| **Mint** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/mint.svg" alt="Muestras de Mint" width="220"> | Claro y ligero, para el día |
-
-> [!NOTE]
-> Los temas vienen en camino a [addons.mozilla.org](https://addons.mozilla.org). Mientras tanto, instálalos a mano.
+| Sabor | Colores | Para | Instalar |
+| --- | --- | --- | --- |
+| **Forest** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/forest.svg" alt="Muestras de Forest" width="220"> | Oscuro y profundo, para la noche | [Complementos de Firefox](https://addons.mozilla.org/firefox/addon/nephrite-forest/) |
+| **Jade** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/jade.svg" alt="Muestras de Jade" width="220"> | Oscuro con más verde, para jornadas largas | [Complementos de Firefox](https://addons.mozilla.org/firefox/addon/nephrite-jade/) |
+| **Mint** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/mint.svg" alt="Muestras de Mint" width="220"> | Claro y ligero, para el día | [Complementos de Firefox](https://addons.mozilla.org/firefox/addon/nephrite-mint/) |
 
 ## Instalación
 
-### Desde addons.mozilla.org
+### Desde Complementos de Firefox (recomendado)
 
-Muy pronto. Instalar otro sabor reemplaza el actual.
+Abre el enlace del sabor que quieras y haz clic en **Añadir a Firefox**. Instalar otro sabor reemplaza el actual.
 
 ### A mano
 
