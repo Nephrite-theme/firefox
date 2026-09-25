@@ -21,6 +21,13 @@ A calm, jade-inspired theme for [Firefox](https://www.mozilla.org/firefox/), in 
 | **Jade** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/jade.svg" alt="Jade swatches" width="220"> | Dark with more green, for long days | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/nephrite-jade/) |
 | **Mint** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/mint.svg" alt="Mint swatches" width="220"> | Light and airy, for daylight | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/nephrite-mint/) |
 
+## Previews
+
+| Forest | Jade | Mint |
+| --- | --- | --- |
+| ![Forest with a page open](assets/forest-page.webp) | ![Jade with a page open](assets/jade-page.webp) | ![Mint with a page open](assets/mint-page.webp) |
+| ![Forest new tab](assets/forest-ntp.webp) | ![Jade new tab](assets/jade-ntp.webp) | ![Mint new tab](assets/mint-ntp.webp) |
+
 ## Install
 
 ### From Firefox Add-ons (recommended)

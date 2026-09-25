@@ -21,6 +21,13 @@ Un tema sereno, inspirado en el jade, para [Firefox](https://www.mozilla.org/fir
 | **Jade** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/jade.svg" alt="Muestras de Jade" width="220"> | Oscuro con más verde, para jornadas largas | [Complementos de Firefox](https://addons.mozilla.org/firefox/addon/nephrite-jade/) |
 | **Mint** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/mint.svg" alt="Muestras de Mint" width="220"> | Claro y ligero, para el día | [Complementos de Firefox](https://addons.mozilla.org/firefox/addon/nephrite-mint/) |
 
+## Vistas previas
+
+| Forest | Jade | Mint |
+| --- | --- | --- |
+| ![Forest con una página abierta](assets/forest-page.webp) | ![Jade con una página abierta](assets/jade-page.webp) | ![Mint con una página abierta](assets/mint-page.webp) |
+| ![Forest en nueva pestaña](assets/forest-ntp.webp) | ![Jade en nueva pestaña](assets/jade-ntp.webp) | ![Mint en nueva pestaña](assets/mint-ntp.webp) |
+
 ## Instalación
 
 ### Desde Complementos de Firefox (recomendado)
