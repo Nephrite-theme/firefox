@@ -1,0 +1,66 @@
+{
+  "manifest_version": 3,
+  "name": "Nephrite Forest",
+  "version": "0.2",
+  "description": "A calm, jade-inspired theme for Firefox. Forest flavor of the Nephrite palette.",
+  "homepage_url": "https://getnephrite.dev",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "nephrite-forest@getnephrite.dev",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#09150e",
+      "frame_inactive": "#050e09",
+      "tab_selected": "#0d1c14",
+      "tab_text": "#e0ebe5",
+      "tab_background_text": "#b4c1ba",
+      "tab_line": "#4dbf74",
+      "tab_loading": "#4dbf74",
+      "toolbar": "#0d1c14",
+      "toolbar_text": "#e0ebe5",
+      "toolbar_top_separator": "#050e09",
+      "toolbar_bottom_separator": "#050e09",
+      "icons": "#b4c1ba",
+      "icons_attention": "#4dbf74",
+      "button_background_hover": "#25342c",
+      "button_background_active": "#324139",
+      "toolbar_field": "#192820",
+      "toolbar_field_text": "#e0ebe5",
+      "toolbar_field_border": "#25342c",
+      "toolbar_field_focus": "#192820",
+      "toolbar_field_text_focus": "#e0ebe5",
+      "toolbar_field_border_focus": "#4dbf74",
+      "toolbar_field_highlight": "#4dbf74",
+      "toolbar_field_highlight_text": "#0d1c14",
+      "popup": "#09150e",
+      "popup_text": "#e0ebe5",
+      "popup_border": "#192820",
+      "popup_highlight": "#25342c",
+      "popup_highlight_text": "#e0ebe5",
+      "sidebar": "#09150e",
+      "sidebar_text": "#e0ebe5",
+      "sidebar_border": "#050e09",
+      "sidebar_highlight": "#25342c",
+      "sidebar_highlight_text": "#e0ebe5",
+      "ntp_background": "#0d1c14",
+      "ntp_text": "#e0ebe5",
+      "ntp_card_background": "#192820"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}
