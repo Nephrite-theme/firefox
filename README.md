@@ -15,11 +15,11 @@ A calm, jade-inspired theme for [Firefox](https://www.mozilla.org/firefox/), in 
 
 ## Flavors
 
-| Flavor | Colors | For | Install |
+| Flavor | Colors used | For | Install |
 | --- | --- | --- | --- |
-| **Forest** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/forest.svg" alt="Forest swatches" width="220"> | Deep and dark, for late nights | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/nephrite-forest/) |
-| **Jade** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/jade.svg" alt="Jade swatches" width="220"> | Dark with more green, for long days | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/nephrite-jade/) |
-| **Mint** | <img src="https://raw.githubusercontent.com/Nephrite-theme/palette/main/assets/mint.svg" alt="Mint swatches" width="220"> | Light and airy, for daylight | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/nephrite-mint/) |
+| **Forest** | <img src="assets/forest.svg" alt="Forest swatches" width="260"> | Deep and dark, for late nights | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/nephrite-forest/) |
+| **Jade** | <img src="assets/jade.svg" alt="Jade swatches" width="260"> | Dark with more green, for long days | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/nephrite-jade/) |
+| **Mint** | <img src="assets/mint.svg" alt="Mint swatches" width="260"> | Light and airy, for daylight | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/nephrite-mint/) |
 
 ## Previews
 
